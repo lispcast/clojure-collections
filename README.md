@@ -1,9 +1,9 @@
 # clojure-collections
 
-Code to accompany the [course][course], part of
+Code to accompany the [Clojure Collections course][course], part of
 [PurelyFunctional.tv Online Mentoring][mentoring].
 
-[course]: https://purelyfunctional.tv/
+[course]: https://purelyfunctional.tv/courses/clojure-collections/
 [mentoring]: https://purelyfunctional.tv/
 
 ## License
