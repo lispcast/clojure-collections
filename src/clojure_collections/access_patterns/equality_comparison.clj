@@ -1,4 +1,4 @@
-(ns clojure-collections.equality-comparison)
+(ns clojure-collections.access-patterns.equality-comparison)
 
 
 ;; Equality comparison
