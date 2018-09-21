@@ -1,4 +1,4 @@
-(ns clojure-collections.lifo)
+(ns clojure-collections.access-patterns.lifo)
 
 ;; LIFO last-in, first-out
 ;; stack
