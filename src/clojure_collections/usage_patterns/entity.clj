@@ -1,4 +1,4 @@
-(ns clojure-collections.patterns.entity)
+(ns clojure-collections.usage-patterns.entity)
 
 ;; Entity
 
